@@ -1,4 +1,4 @@
 # e-com-website
 An e-commerce website using html and css and little js
-# e-com-website-version1.3
+# live at https://nitin034.github.io/Shopmore-E-Commerce-Website-0.1/
  
